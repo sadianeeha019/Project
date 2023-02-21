@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617944345972",
+    "firebase_url": "https://shormy-b4d08-default-rtdb.firebaseio.com",
+    "project_id": "shormy-b4d08",
+    "storage_bucket": "shormy-b4d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617944345972:android:5a7825e6a967fe0c439021",
+        "android_client_info": {
+          "package_name": "com.example.evelyn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617944345972-afckiqchttspgp8j8899vpn62du6i3fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmqnfQAmX1QHbZX4uofkGw0Kbqhw7P2qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617944345972-afckiqchttspgp8j8899vpn62du6i3fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
