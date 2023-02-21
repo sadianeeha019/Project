@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">617944345972-afckiqchttspgp8j8899vpn62du6i3fj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://shormy-b4d08-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">617944345972</string>
+    <string name="google_api_key" translatable="false">AIzaSyBmqnfQAmX1QHbZX4uofkGw0Kbqhw7P2qc</string>
+    <string name="google_app_id" translatable="false">1:617944345972:android:5a7825e6a967fe0c439021</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBmqnfQAmX1QHbZX4uofkGw0Kbqhw7P2qc</string>
+    <string name="google_storage_bucket" translatable="false">shormy-b4d08.appspot.com</string>
+    <string name="project_id" translatable="false">shormy-b4d08</string>
+</resources>
